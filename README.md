@@ -109,8 +109,4 @@ Add real-time weather API integration
 
 Support for multi-crop recommendation
 
-👨‍💻 Author
-Developed by: [Your Name]
-
-Contact: [Your Email or GitHub]
 
